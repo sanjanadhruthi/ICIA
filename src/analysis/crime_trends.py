@@ -43,7 +43,10 @@ def run():
         s = trend[trend.category == code].set_index("year").cases
         ax.plot(s.index, s / s.iloc[0] * 100, marker="o", lw=2, label=label, color=COLORS[i])
     ax.axhline(100, color="black", lw=0.8)
-    ax.set_ylabel("Index (2016 = 100)")
+    ax.set_yscale("log")  # so cyber's huge growth doesn't flatten the other lines
+    ax.set_yticks([50, 100, 150, 200, 300, 500, 800])
+    ax.get_yaxis().set_major_formatter(plt.matplotlib.ticker.ScalarFormatter())
+    ax.set_ylabel("Index (2016 = 100, log scale)")
     ax.set_title("Which crime categories grew fastest? (cases, 2016 = 100)")
     ax.legend(fontsize=9, ncol=2)
     figures.append(save_fig(fig, "02_category_growth_index"))

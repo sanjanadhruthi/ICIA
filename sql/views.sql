@@ -68,4 +68,5 @@ SELECT  crime_head,
         cases                                            AS total_cases,
         ROUND(bns_cases * 100.0 / NULLIF(cases, 0), 1)   AS bns_share_pct
 FROM crime_heads
-WHERE law = 'IPC/BNS' AND year = 2024 AND is_subtotal = 0 AND cases > 0;
+WHERE law = 'IPC/BNS' AND year = 2024 AND is_main = 1   -- top-level heads only, no double counting
+  AND ipc_cases > 0 AND bns_cases > 0;   -- heads that exist in both laws

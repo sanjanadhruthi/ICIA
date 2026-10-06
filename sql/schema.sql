@@ -91,7 +91,7 @@ CREATE TABLE crime_heads (
     law          TEXT    NOT NULL,       -- IPC/BNS or SLL
     crime_head   TEXT    NOT NULL,
     serial       TEXT,
-    is_subtotal  INTEGER NOT NULL,
+    is_main      INTEGER NOT NULL DEFAULT 0,   -- 1 = top-level head; sub-heads are already inside it
     year         INTEGER NOT NULL,
     cases        INTEGER,
     crime_rate   REAL,

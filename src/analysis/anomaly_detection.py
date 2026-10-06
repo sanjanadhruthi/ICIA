@@ -21,7 +21,8 @@ Z_LIMIT = 3.5
 MIN_CASES = 500
 
 
-def run():
+def find_anomalies():
+    """Return every flagged state-year (also used by the dashboard)."""
     df = query("SELECT state, zone, year, category, category_label, cases FROM v_crime "
                "WHERE cases IS NOT NULL ORDER BY state, category, year")
     df["prev"] = df.groupby(["state", "category"]).cases.shift()
@@ -35,7 +36,11 @@ def run():
     df["change_pct"] = (np.exp(df.growth) - 1) * 100
 
     flags = df[(df.z.abs() > Z_LIMIT) & (df[["cases", "prev"]].max(axis=1) >= MIN_CASES)]
-    flags = flags.sort_values("z", key=abs, ascending=False)
+    return flags.sort_values("z", key=abs, ascending=False)
+
+
+def run():
+    flags = find_anomalies()
     out = flags[["state", "year", "category", "prev", "cases", "change_pct", "z"]].round(2)
     INSIGHTS_DIR.mkdir(parents=True, exist_ok=True)
     out.to_csv(INSIGHTS_DIR / "anomalies.csv", index=False)

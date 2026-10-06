@@ -14,8 +14,8 @@ def run():
     figures, lines = [], []
 
     # 1. top IPC/BNS crime heads
-    heads = query("SELECT crime_head, cases FROM crime_heads WHERE law = 'IPC/BNS' "
-                  "AND year = :y AND is_subtotal = 0 AND cases > 0", y=LATEST)
+    heads = query("SELECT crime_head, cases FROM crime_heads WHERE law = 'IPC/BNS' AND year = :y "
+                  "AND is_main = 1 AND cases > 0 AND crime_head NOT LIKE 'Other%'", y=LATEST)
     top = heads.nlargest(12, "cases").sort_values("cases")
     fig, ax = plt.subplots(figsize=(10, 6))
     ax.barh(top.crime_head.str.slice(0, 45), top.cases / 1e3, color=COLORS[0])
@@ -26,8 +26,8 @@ def run():
                  f"({top.iloc[-1].cases:,.0f} cases).")
 
     # 2. top SLL acts
-    sll = query("SELECT crime_head, cases FROM crime_heads WHERE law = 'SLL' "
-                "AND year = :y AND is_subtotal = 0 AND cases > 0", y=LATEST)
+    sll = query("SELECT crime_head, cases FROM crime_heads WHERE law = 'SLL' AND year = :y "
+                "AND is_main = 1 AND cases > 0 AND crime_head NOT LIKE 'Other%'", y=LATEST)
     top_sll = sll.nlargest(10, "cases").sort_values("cases")
     fig, ax = plt.subplots(figsize=(10, 5.5))
     ax.barh(top_sll.crime_head.str.slice(0, 50), top_sll.cases / 1e3, color=COLORS[2])

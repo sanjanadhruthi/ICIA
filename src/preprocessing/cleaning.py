@@ -298,7 +298,8 @@ def parse_crime_heads(df, source):
             recs.setdefault(year, {})[field] = to_number(row.iloc[c])
         for year, vals in recs.items():
             out.append({"law": law, "crime_head": head, "serial": serial,
-                        "is_subtotal": (not serial) or "total" in head.lower(),
+                        # main heads have plain serials (12, 41, E3); sub-heads (6A, 23.1) sit inside them
+                        "is_main": bool(re.fullmatch(r"E?\d+", serial)),
                         "year": year, **vals})
     out = pd.DataFrame(out)
     log.info("OK  %-60s crime heads | %d heads", source[:60], out.crime_head.nunique())

@@ -72,7 +72,7 @@ def run():
             log.warning("skipped %s: %s not found", table, fname)
             continue
         df = pd.read_csv(path)
-        for col in ("is_subtotal", "is_interpolated"):
+        for col in ("is_subtotal", "is_main", "is_interpolated"):
             if col in df:
                 df[col] = df[col].astype(int)
         df.to_sql(table, engine, if_exists="append", index=False)

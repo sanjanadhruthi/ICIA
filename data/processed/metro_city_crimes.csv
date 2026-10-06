@@ -1,0 +1,58 @@
+city,state,year,cases,population_lakhs,crime_rate,chargesheet_rate
+Ahmedabad,Gujarat,2022,53845.0,,,
+Ahmedabad,Gujarat,2023,53311.0,,,
+Ahmedabad,Gujarat,2024,49250.0,63.5,775.3,93.0
+Bengaluru,Karnataka,2022,46187.0,,,
+Bengaluru,Karnataka,2023,68520.0,,,
+Bengaluru,Karnataka,2024,57555.0,85.0,677.2,54.4
+Chennai,Tamil Nadu,2022,39138.0,,,
+Chennai,Tamil Nadu,2023,36502.0,,,
+Chennai,Tamil Nadu,2024,45766.0,87.0,526.3,93.8
+Coimbatore,Tamil Nadu,2022,9250.0,,,
+Coimbatore,Tamil Nadu,2023,8812.0,,,
+Coimbatore,Tamil Nadu,2024,7942.0,21.5,369.2,80.0
+Delhi City,,2022,318555.0,,,
+Delhi City,,2023,343483.0,,,
+Delhi City,,2024,297666.0,163.1,1824.5,36.8
+Ghaziabad,Uttar Pradesh,2022,13207.0,,,
+Ghaziabad,Uttar Pradesh,2023,11384.0,,,
+Ghaziabad,Uttar Pradesh,2024,10530.0,23.6,446.4,55.1
+Hyderabad,Telangana,2022,23183.0,,,
+Hyderabad,Telangana,2023,25749.0,,,
+Hyderabad,Telangana,2024,30309.0,77.5,391.1,59.0
+Indore,Madhya Pradesh,2022,27127.0,,,
+Indore,Madhya Pradesh,2023,24075.0,,,
+Indore,Madhya Pradesh,2024,17360.0,21.7,801.1,73.9
+Jaipur,Rajasthan,2022,36961.0,,,
+Jaipur,Rajasthan,2023,39237.0,,,
+Jaipur,Rajasthan,2024,36946.0,30.7,1202.3,51.5
+Kanpur,Uttar Pradesh,2022,15260.0,,,
+Kanpur,Uttar Pradesh,2023,13114.0,,,
+Kanpur,Uttar Pradesh,2024,14776.0,29.2,506.0,80.4
+Kochi,Kerala,2022,28766.0,,,
+Kochi,Kerala,2023,67616.0,,,
+Kochi,Kerala,2024,21516.0,21.2,1015.9,96.5
+Kolkata,West Bengal,2022,12213.0,,,
+Kolkata,West Bengal,2023,11843.0,,,
+Kolkata,West Bengal,2024,13219.0,141.1,93.7,95.4
+Kozhikode,Kerala,2022,11589.0,,,
+Kozhikode,Kerala,2023,18002.0,,,
+Kozhikode,Kerala,2024,15754.0,20.3,775.7,95.6
+Lucknow,Uttar Pradesh,2022,19058.0,,,
+Lucknow,Uttar Pradesh,2023,29472.0,,,
+Lucknow,Uttar Pradesh,2024,31421.0,29.0,1083.1,67.4
+Mumbai,Maharashtra,2022,89098.0,,,
+Mumbai,Maharashtra,2023,65441.0,,,
+Mumbai,Maharashtra,2024,70054.0,184.1,380.4,80.8
+Nagpur,Maharashtra,2022,19167.0,,,
+Nagpur,Maharashtra,2023,24036.0,,,
+Nagpur,Maharashtra,2024,21898.0,25.0,876.6,77.9
+Patna,Bihar,2022,21393.0,,,
+Patna,Bihar,2023,23530.0,,,
+Patna,Bihar,2024,17217.0,20.5,841.1,78.3
+Pune,Maharashtra,2022,14173.0,,,
+Pune,Maharashtra,2023,17022.0,,,
+Pune,Maharashtra,2024,18560.0,50.5,367.5,80.9
+Surat,Gujarat,2022,55300.0,,,
+Surat,Gujarat,2023,63142.0,,,
+Surat,Gujarat,2024,63166.0,45.8,1377.7,97.7

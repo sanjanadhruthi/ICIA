@@ -1,0 +1,685 @@
+state,year,category,population_lakhs,crime_rate,chargesheet_rate
+Andhra Pradesh,2018,crime_against_children,156.7,17.0,
+Arunachal Pradesh,2018,crime_against_children,4.7,35.5,
+Assam,2018,crime_against_children,118.9,45.8,
+Bihar,2018,crime_against_children,447.8,16.4,
+Chhattisgarh,2018,crime_against_children,100.5,68.9,
+Goa,2018,crime_against_children,5.2,35.0,
+Gujarat,2018,crime_against_children,206.8,23.8,
+Haryana,2018,crime_against_children,92.8,52.5,
+Himachal Pradesh,2018,crime_against_children,21.6,35.7,
+Jammu & Kashmir,2018,crime_against_children,45.0,10.5,
+Jharkhand,2018,crime_against_children,131.5,11.2,
+Karnataka,2018,crime_against_children,195.9,31.3,
+Kerala,2018,crime_against_children,93.4,45.5,
+Madhya Pradesh,2018,crime_against_children,300.8,63.1,
+Maharashtra,2018,crime_against_children,378.5,49.9,
+Manipur,2018,crime_against_children,9.6,13.3,
+Meghalaya,2018,crime_against_children,10.0,38.4,
+Mizoram,2018,crime_against_children,3.7,53.4,
+Nagaland,2018,crime_against_children,6.7,10.4,
+Odisha,2018,crime_against_children,140.4,37.2,
+Punjab,2018,crime_against_children,87.7,26.3,
+Rajasthan,2018,crime_against_children,285.4,18.0,
+Sikkim,2018,crime_against_children,2.0,108.9,
+Tamil Nadu,2018,crime_against_children,202.0,20.6,
+Telangana,2018,crime_against_children,111.7,33.5,
+Tripura,2018,crime_against_children,12.4,21.9,
+Uttar Pradesh,2018,crime_against_children,885.8,22.5,
+Uttarakhand,2018,crime_against_children,38.5,33.9,
+West Bengal,2018,crime_against_children,293.7,21.4,
+Andaman & Nicobar Islands,2018,crime_against_children,1.4,119.1,
+Chandigarh,2018,crime_against_children,4.0,72.0,
+Dadra & Nagar Haveli,2018,crime_against_children,1.3,29.9,
+Daman & Diu,2018,crime_against_children,0.9,37.4,
+Delhi,2018,crime_against_children,56.0,147.2,
+Lakshadweep,2018,crime_against_children,0.2,44.4,
+Puducherry,2018,crime_against_children,4.7,19.1,
+Andhra Pradesh,2018,crime_against_women,260.0,63.223076923076924,
+Arunachal Pradesh,2018,crime_against_women,7.2,51.11111111111111,
+Assam,2018,crime_against_women,167.0,166.03592814371257,
+Bihar,2018,crime_against_women,567.4,29.820232640112796,
+Chhattisgarh,2018,crime_against_women,141.9,60.514446793516555,
+Goa,2018,crime_against_women,7.6,47.631578947368425,
+Gujarat,2018,crime_against_women,320.7,25.971312753352045,
+Haryana,2018,crime_against_women,133.3,107.47186796699174,
+Himachal Pradesh,2018,crime_against_women,35.8,45.614525139664806,
+Jammu & Kashmir,2018,crime_against_women,63.6,54.040880503144656,
+Jharkhand,2018,crime_against_women,180.6,39.21926910299003,
+Karnataka,2018,crime_against_women,322.6,41.89088654680719,
+Kerala,2018,crime_against_women,182.0,57.47802197802198,
+Madhya Pradesh,2018,crime_against_women,393.9,73.47550139629348,
+Maharashtra,2018,crime_against_women,583.2,60.865912208504795,
+Manipur,2018,crime_against_women,15.3,17.712418300653592,
+Meghalaya,2018,crime_against_women,16.0,35.6875,
+Mizoram,2018,crime_against_women,5.9,42.20338983050847,
+Nagaland,2018,crime_against_women,10.3,7.281553398058252,
+Odisha,2018,crime_against_women,222.1,91.28320576316975,
+Punjab,2018,crime_against_women,140.7,37.68301350390903,
+Rajasthan,2018,crime_against_women,371.1,75.09027216383724,
+Sikkim,2018,crime_against_women,3.1,55.483870967741936,
+Tamil Nadu,2018,crime_against_women,377.3,15.43069175722237,
+Telangana,2018,crime_against_women,184.0,87.10326086956522,
+Tripura,2018,crime_against_women,19.5,46.51282051282051,
+Uttar Pradesh,2018,crime_against_women,1066.8,55.72272215973003,
+Uttarakhand,2018,crime_against_women,54.0,52.166666666666664,
+West Bengal,2018,crime_against_women,471.7,64.43502225991097,
+Andaman & Nicobar Islands,2018,crime_against_women,1.9,77.36842105263159,
+Chandigarh,2018,crime_against_women,5.3,83.39622641509435,
+Dadra & Nagar Haveli,2018,crime_against_women,2.2,17.27272727272727,
+Daman & Diu,2018,crime_against_women,1.3,12.307692307692307,
+Delhi,2018,crime_against_women,91.2,149.56140350877192,
+Lakshadweep,2018,crime_against_women,0.3,36.66666666666667,
+Puducherry,2018,crime_against_women,7.7,21.558441558441558,
+Andhra Pradesh,2018,cyber_crime,520.3,2.3,
+Arunachal Pradesh,2018,cyber_crime,14.9,0.5,
+Assam,2018,cyber_crime,340.4,5.9,
+Bihar,2018,cyber_crime,1183.3,0.3,
+Chhattisgarh,2018,cyber_crime,284.7,0.5,
+Goa,2018,cyber_crime,15.3,1.9,
+Gujarat,2018,cyber_crime,673.2,1.0,
+Haryana,2018,cyber_crime,284.0,1.5,
+Himachal Pradesh,2018,cyber_crime,72.7,0.9,
+Jammu & Kashmir,2018,cyber_crime,134.3,0.5,
+Jharkhand,2018,cyber_crime,370.5,2.5,
+Karnataka,2018,cyber_crime,654.5,8.9,
+Kerala,2018,cyber_crime,350.0,1.0,
+Madhya Pradesh,2018,cyber_crime,814.7,0.9,
+Maharashtra,2018,cyber_crime,1213.9,2.9,
+Manipur,2018,cyber_crime,30.8,0.9,
+Meghalaya,2018,cyber_crime,32.0,2.3,
+Mizoram,2018,cyber_crime,11.8,0.5,
+Nagaland,2018,cyber_crime,21.3,0.1,
+Odisha,2018,cyber_crime,435.5,1.9,
+Punjab,2018,cyber_crime,297.0,0.8,
+Rajasthan,2018,cyber_crime,765.9,1.4,
+Sikkim,2018,cyber_crime,6.6,0.2,
+Tamil Nadu,2018,cyber_crime,754.6,0.4,
+Telangana,2018,cyber_crime,370.3,3.3,
+Tripura,2018,cyber_crime,39.6,0.5,
+Uttar Pradesh,2018,cyber_crime,2230.0,2.8,
+Uttarakhand,2018,cyber_crime,110.6,1.5,
+West Bengal,2018,cyber_crime,965.0,0.3,
+Andaman & Nicobar Islands,2018,cyber_crime,4.0,1.8,
+Chandigarh,2018,cyber_crime,11.7,2.6,
+Dadra & Nagar Haveli,2018,cyber_crime,5.3,0.0,
+Daman & Diu,2018,cyber_crime,4.0,0.0,
+Delhi,2018,cyber_crime,195.6,1.0,
+Lakshadweep,2018,cyber_crime,0.7,6.0,
+Puducherry,2018,cyber_crime,14.8,0.9,
+Andhra Pradesh,2018,ipc_bns_crime,520.3,243.4,
+Arunachal Pradesh,2018,ipc_bns_crime,14.9,175.0,
+Assam,2018,ipc_bns_crime,340.4,329.7,
+Bihar,2018,ipc_bns_crime,1183.3,166.4,
+Chhattisgarh,2018,ipc_bns_crime,284.7,211.4,
+Goa,2018,ipc_bns_crime,15.3,178.6,
+Gujarat,2018,ipc_bns_crime,673.2,219.2,
+Haryana,2018,ipc_bns_crime,284.0,381.0,
+Himachal Pradesh,2018,ipc_bns_crime,72.7,200.9,
+Jammu & Kashmir,2018,ipc_bns_crime,134.3,180.4,
+Jharkhand,2018,ipc_bns_crime,370.5,122.2,
+Karnataka,2018,ipc_bns_crime,654.5,193.3,
+Kerala,2018,ipc_bns_crime,350.0,534.1,
+Madhya Pradesh,2018,ipc_bns_crime,814.7,304.8,
+Maharashtra,2018,ipc_bns_crime,1213.9,285.3,
+Manipur,2018,ipc_bns_crime,30.8,93.1,
+Meghalaya,2018,ipc_bns_crime,32.0,91.3,
+Mizoram,2018,ipc_bns_crime,11.8,149.8,
+Nagaland,2018,ipc_bns_crime,21.3,57.3,
+Odisha,2018,ipc_bns_crime,435.5,192.4,
+Punjab,2018,ipc_bns_crime,297.0,140.2,
+Rajasthan,2018,ipc_bns_crime,765.9,224.4,
+Sikkim,2018,ipc_bns_crime,6.6,94.1,
+Tamil Nadu,2018,ipc_bns_crime,754.6,246.4,
+Telangana,2018,ipc_bns_crime,370.3,307.7,
+Tripura,2018,ipc_bns_crime,39.6,134.4,
+Uttar Pradesh,2018,ipc_bns_crime,2230.0,153.5,
+Uttarakhand,2018,ipc_bns_crime,110.6,133.3,
+West Bengal,2018,ipc_bns_crime,965.0,163.3,
+Andaman & Nicobar Islands,2018,ipc_bns_crime,4.0,178.3,
+Chandigarh,2018,ipc_bns_crime,11.7,262.6,
+Dadra & Nagar Haveli,2018,ipc_bns_crime,5.3,48.6,
+Daman & Diu,2018,ipc_bns_crime,4.0,80.8,
+Delhi,2018,ipc_bns_crime,195.6,1273.0,
+Lakshadweep,2018,ipc_bns_crime,0.7,71.6,
+Puducherry,2018,ipc_bns_crime,14.8,243.5,
+Andhra Pradesh,2018,sll_crime,520.3,34.7,
+Arunachal Pradesh,2018,sll_crime,14.9,13.7,
+Assam,2018,sll_crime,340.4,24.5,
+Bihar,2018,sll_crime,1183.3,55.7,
+Chhattisgarh,2018,sll_crime,284.7,133.7,
+Goa,2018,sll_crime,15.3,74.6,
+Gujarat,2018,sll_crime,673.2,364.9,
+Haryana,2018,sll_crime,284.0,292.3,
+Himachal Pradesh,2018,sll_crime,72.7,68.7,
+Jammu & Kashmir,2018,sll_crime,134.3,22.8,
+Jharkhand,2018,sll_crime,370.5,28.0,
+Karnataka,2018,sll_crime,654.5,56.4,
+Kerala,2018,sll_crime,350.0,929.1,
+Madhya Pradesh,2018,sll_crime,814.7,192.4,
+Maharashtra,2018,sll_crime,1213.9,139.5,
+Manipur,2018,sll_crime,30.8,29.6,
+Meghalaya,2018,sll_crime,32.0,17.5,
+Mizoram,2018,sll_crime,11.8,48.7,
+Nagaland,2018,sll_crime,21.3,25.9,
+Odisha,2018,sll_crime,435.5,54.3,
+Punjab,2018,sll_crime,297.0,96.6,
+Rajasthan,2018,sll_crime,765.9,102.7,
+Sikkim,2018,sll_crime,6.6,37.8,
+Tamil Nadu,2018,sll_crime,754.6,415.2,
+Telangana,2018,sll_crime,370.3,34.9,
+Tripura,2018,sll_crime,39.6,19.0,
+Uttar Pradesh,2018,sll_crime,2230.0,108.9,
+Uttarakhand,2018,sll_crime,110.6,180.7,
+West Bengal,2018,sll_crime,965.0,31.6,
+Andaman & Nicobar Islands,2018,sll_crime,4.0,755.8,
+Chandigarh,2018,sll_crime,11.7,247.4,
+Dadra & Nagar Haveli,2018,sll_crime,5.3,11.4,
+Daman & Diu,2018,sll_crime,4.0,3.8,
+Delhi,2018,sll_crime,195.6,69.5,
+Lakshadweep,2018,sll_crime,0.7,43.3,
+Puducherry,2018,sll_crime,14.8,72.1,
+Andhra Pradesh,2018,violent_crime,520.3,15.8,
+Arunachal Pradesh,2018,violent_crime,14.9,41.7,
+Assam,2018,violent_crime,340.4,86.4,
+Bihar,2018,violent_crime,1183.3,37.5,
+Chhattisgarh,2018,violent_crime,284.7,30.5,
+Goa,2018,violent_crime,15.3,29.5,
+Gujarat,2018,violent_crime,673.2,16.9,
+Haryana,2018,violent_crime,284.0,49.4,
+Himachal Pradesh,2018,violent_crime,72.7,25.6,
+Jammu & Kashmir,2018,violent_crime,134.3,29.5,
+Jharkhand,2018,violent_crime,370.5,31.4,
+Karnataka,2018,violent_crime,654.5,26.9,
+Kerala,2018,violent_crime,350.0,37.5,
+Madhya Pradesh,2018,violent_crime,814.7,33.3,
+Maharashtra,2018,violent_crime,1213.9,37.7,
+Manipur,2018,violent_crime,30.8,21.4,
+Meghalaya,2018,violent_crime,32.0,20.7,
+Mizoram,2018,violent_crime,11.8,13.6,
+Nagaland,2018,violent_crime,21.3,10.9,
+Odisha,2018,violent_crime,435.5,36.6,
+Punjab,2018,violent_crime,297.0,20.7,
+Rajasthan,2018,violent_crime,765.9,23.6,
+Sikkim,2018,violent_crime,6.6,27.0,
+Tamil Nadu,2018,violent_crime,754.6,15.4,
+Telangana,2018,violent_crime,370.3,20.7,
+Tripura,2018,violent_crime,39.6,62.0,
+Uttar Pradesh,2018,violent_crime,2230.0,29.2,
+Uttarakhand,2018,violent_crime,110.6,28.4,
+West Bengal,2018,violent_crime,965.0,46.1,
+Andaman & Nicobar Islands,2018,violent_crime,4.0,36.1,
+Chandigarh,2018,violent_crime,11.7,45.9,
+Dadra & Nagar Haveli,2018,violent_crime,5.3,8.6,
+Daman & Diu,2018,violent_crime,4.0,15.7,
+Delhi,2018,violent_crime,195.6,63.6,
+Lakshadweep,2018,violent_crime,0.7,9.0,
+Puducherry,2018,violent_crime,14.8,13.3,
+Andhra Pradesh,2021,crime_against_children,151.1,17.7,93.2
+Arunachal Pradesh,2021,crime_against_children,5.9,27.5,69.6
+Assam,2021,crime_against_children,120.8,43.7,56.0
+Bihar,2021,crime_against_children,475.0,14.5,68.9
+Chhattisgarh,2021,crime_against_children,97.5,61.6,70.4
+Goa,2021,crime_against_children,3.8,39.5,70.9
+Gujarat,2021,crime_against_children,209.2,21.6,79.2
+Haryana,2021,crime_against_children,91.2,62.5,44.0
+Himachal Pradesh,2021,crime_against_children,21.5,34.4,53.0
+Jharkhand,2021,crime_against_children,138.4,13.5,83.7
+Karnataka,2021,crime_against_children,193.5,37.5,61.2
+Kerala,2021,crime_against_children,94.1,48.2,94.1
+Madhya Pradesh,2021,crime_against_children,287.6,66.7,61.0
+Maharashtra,2021,crime_against_children,361.1,47.8,55.8
+Manipur,2021,crime_against_children,10.3,13.8,77.9
+Meghalaya,2021,crime_against_children,13.8,34.9,79.8
+Mizoram,2021,crime_against_children,4.2,28.9,91.7
+Nagaland,2021,crime_against_children,8.2,6.2,80.4
+Odisha,2021,crime_against_children,144.1,54.8,52.3
+Punjab,2021,crime_against_children,87.4,29.2,69.0
+Rajasthan,2021,crime_against_children,281.4,27.2,56.3
+Sikkim,2021,crime_against_children,2.1,72.4,78.5
+Tamil Nadu,2021,crime_against_children,206.6,29.3,91.2
+Telangana,2021,crime_against_children,113.8,49.8,75.9
+Tripura,2021,crime_against_children,12.3,19.2,84.1
+Uttar Pradesh,2021,crime_against_children,853.3,19.7,72.5
+Uttarakhand,2021,crime_against_children,38.0,32.8,81.3
+West Bengal,2021,crime_against_children,300.0,31.7,82.1
+Andaman & Nicobar Islands,2021,crime_against_children,1.1,110.4,95.2
+Chandigarh,2021,crime_against_children,3.2,72.2,32.1
+DNH & Daman & Diu,2021,crime_against_children,1.9,54.1,51.9
+Delhi,2021,crime_against_children,55.4,128.5,32.5
+Jammu & Kashmir,2021,crime_against_children,49.1,17.2,56.8
+Ladakh,2021,crime_against_children,0.8,1.2,66.7
+Lakshadweep,2021,crime_against_children,0.2,85.4,90.5
+Puducherry,2021,crime_against_children,3.6,34.0,84.3
+Andhra Pradesh,2021,crime_against_women,264.2,67.2,93.5
+Arunachal Pradesh,2021,crime_against_women,7.5,49.1,77.6
+Assam,2021,crime_against_women,172.6,168.3,52.9
+Bihar,2021,crime_against_women,593.7,30.2,69.4
+Chhattisgarh,2021,crime_against_women,147.6,49.8,88.5
+Goa,2021,crime_against_women,7.7,28.9,77.4
+Gujarat,2021,crime_against_women,333.2,22.1,93.3
+Haryana,2021,crime_against_women,139.2,119.7,57.1
+Himachal Pradesh,2021,crime_against_women,36.5,43.8,76.5
+Jharkhand,2021,crime_against_women,188.5,43.0,79.7
+Karnataka,2021,crime_against_women,330.0,43.8,87.2
+Kerala,2021,crime_against_women,184.7,73.3,94.6
+Madhya Pradesh,2021,crime_against_women,410.8,74.7,83.7
+Maharashtra,2021,crime_against_women,598.9,66.0,82.4
+Manipur,2021,crime_against_women,15.8,19.1,48.4
+Meghalaya,2021,crime_against_women,16.4,41.7,76.1
+Mizoram,2021,crime_against_women,6.0,29.1,94.9
+Nagaland,2021,crime_against_women,10.6,5.1,80.4
+Odisha,2021,crime_against_women,227.4,137.8,80.1
+Punjab,2021,crime_against_women,144.3,39.2,75.3
+Rajasthan,2021,crime_against_women,386.7,105.4,54.5
+Sikkim,2021,crime_against_women,3.2,40.6,98.3
+Tamil Nadu,2021,crime_against_women,382.8,22.2,87.5
+Telangana,2021,crime_against_women,187.7,111.2,87.8
+Tripura,2021,crime_against_women,20.1,40.2,84.7
+Uttar Pradesh,2021,crime_against_women,1109.6,50.5,76.5
+Uttarakhand,2021,crime_against_women,55.8,61.5,81.5
+West Bengal,2021,crime_against_women,481.2,74.6,93.7
+Andaman & Nicobar Islands,2021,crime_against_women,1.9,89.4,97.1
+Chandigarh,2021,crime_against_women,5.6,61.7,51.0
+DNH & Daman & Diu,2021,crime_against_women,3.9,25.3,74.0
+Delhi,2021,crime_against_women,96.7,147.6,71.2
+Jammu & Kashmir,2021,crime_against_women,64.0,61.6,72.5
+Ladakh,2021,crime_against_women,1.3,13.8,85.7
+Lakshadweep,2021,crime_against_women,0.3,27.3,80.0
+Puducherry,2021,crime_against_women,8.3,18.5,97.6
+Andhra Pradesh,2021,cyber_crime,528.5,3.5,31.8
+Arunachal Pradesh,2021,cyber_crime,15.4,3.1,60.0
+Assam,2021,cyber_crime,351.6,13.8,15.9
+Bihar,2021,cyber_crime,1237.0,1.1,50.2
+Chhattisgarh,2021,cyber_crime,296.1,1.2,83.0
+Goa,2021,cyber_crime,15.6,2.3,52.9
+Gujarat,2021,cyber_crime,700.8,2.2,58.4
+Haryana,2021,cyber_crime,296.0,2.1,51.9
+Himachal Pradesh,2021,cyber_crime,74.1,0.9,61.8
+Jharkhand,2021,cyber_crime,386.4,2.5,45.4
+Karnataka,2021,cyber_crime,669.9,12.1,31.3
+Kerala,2021,cyber_crime,355.4,1.8,57.4
+Madhya Pradesh,2021,cyber_crime,848.6,0.7,91.2
+Maharashtra,2021,cyber_crime,1247.6,4.5,38.4
+Manipur,2021,cyber_crime,31.7,2.1,50.0
+Meghalaya,2021,cyber_crime,33.0,3.2,4.4
+Mizoram,2021,cyber_crime,12.2,2.5,74.1
+Nagaland,2021,cyber_crime,22.0,0.4,0.0
+Odisha,2021,cyber_crime,457.9,4.4,16.2
+Punjab,2021,cyber_crime,304.0,1.8,64.4
+Rajasthan,2021,cyber_crime,795.7,1.9,30.0
+Sikkim,2021,cyber_crime,6.8,0.0,
+Tamil Nadu,2021,cyber_crime,764.8,1.4,71.0
+Telangana,2021,cyber_crime,377.7,27.3,16.4
+Tripura,2021,cyber_crime,40.8,0.6,37.0
+Uttar Pradesh,2021,cyber_crime,2317.0,3.8,45.5
+Uttarakhand,2021,cyber_crime,114.4,6.3,59.0
+West Bengal,2021,cyber_crime,982.9,0.5,60.0
+Andaman & Nicobar Islands,2021,cyber_crime,4.0,2.0,60.0
+Chandigarh,2021,cyber_crime,12.1,1.2,42.9
+DNH & Daman & Diu,2021,cyber_crime,11.1,0.5,100.0
+Delhi,2021,cyber_crime,207.0,1.7,90.8
+Jammu & Kashmir,2021,cyber_crime,134.4,1.1,48.5
+Ladakh,2021,cyber_crime,3.0,1.7,
+Lakshadweep,2021,cyber_crime,0.7,1.5,50.0
+Puducherry,2021,cyber_crime,15.8,0.0,
+Andhra Pradesh,2021,ipc_bns_crime,528.5,339.9,92.9
+Arunachal Pradesh,2021,ipc_bns_crime,15.4,170.9,51.7
+Assam,2021,ipc_bns_crime,351.6,341.0,38.2
+Bihar,2021,ipc_bns_crime,1237.0,150.4,70.5
+Chhattisgarh,2021,ipc_bns_crime,296.1,238.2,80.2
+Goa,2021,ipc_bns_crime,15.6,134.5,73.5
+Gujarat,2021,ipc_bns_crime,700.8,389.7,95.9
+Haryana,2021,ipc_bns_crime,296.0,380.8,49.1
+Himachal Pradesh,2021,ipc_bns_crime,74.1,176.1,83.9
+Jharkhand,2021,ipc_bns_crime,386.4,123.4,67.5
+Karnataka,2021,ipc_bns_crime,669.9,172.8,78.9
+Kerala,2021,ipc_bns_crime,355.4,401.4,91.8
+Madhya Pradesh,2021,ipc_bns_crime,848.6,358.3,87.3
+Maharashtra,2021,ipc_bns_crime,1247.6,294.3,76.4
+Manipur,2021,ipc_bns_crime,31.7,78.3,14.8
+Meghalaya,2021,ipc_bns_crime,33.0,81.1,32.2
+Mizoram,2021,ipc_bns_crime,12.2,202.4,69.0
+Nagaland,2021,ipc_bns_crime,22.0,47.0,62.7
+Odisha,2021,ipc_bns_crime,457.9,272.9,75.5
+Punjab,2021,ipc_bns_crime,304.0,152.8,68.2
+Rajasthan,2021,ipc_bns_crime,795.7,269.6,51.5
+Sikkim,2021,ipc_bns_crime,6.8,78.5,57.0
+Tamil Nadu,2021,ipc_bns_crime,764.8,422.1,63.0
+Telangana,2021,ipc_bns_crime,377.7,386.9,80.8
+Tripura,2021,ipc_bns_crime,40.8,101.3,69.6
+Uttar Pradesh,2021,ipc_bns_crime,2317.0,154.5,75.5
+Uttarakhand,2021,ipc_bns_crime,114.4,137.3,74.6
+West Bengal,2021,ipc_bns_crime,982.9,160.2,91.9
+Andaman & Nicobar Islands,2021,ipc_bns_crime,4.0,96.3,88.2
+Chandigarh,2021,ipc_bns_crime,12.1,198.1,67.7
+DNH & Daman & Diu,2021,ipc_bns_crime,11.1,44.2,76.2
+Delhi,2021,ipc_bns_crime,207.0,1410.0,31.0
+Jammu & Kashmir,2021,ipc_bns_crime,134.4,204.2,79.9
+Ladakh,2021,ipc_bns_crime,3.0,174.2,89.5
+Lakshadweep,2021,ipc_bns_crime,0.7,130.9,48.1
+Puducherry,2021,ipc_bns_crime,15.8,243.1,93.0
+Andhra Pradesh,2021,sll_crime,528.5,80.6,97.7
+Arunachal Pradesh,2021,sll_crime,15.4,26.9,76.3
+Assam,2021,sll_crime,351.6,38.0,51.3
+Bihar,2021,sll_crime,1237.0,77.7,94.9
+Chhattisgarh,2021,sll_crime,296.1,135.5,99.5
+Goa,2021,sll_crime,15.6,57.1,96.3
+Gujarat,2021,sll_crime,700.8,654.6,99.8
+Haryana,2021,sll_crime,296.0,316.5,95.7
+Himachal Pradesh,2021,sll_crime,74.1,78.2,95.2
+Jharkhand,2021,sll_crime,386.4,33.9,83.1
+Karnataka,2021,sll_crime,669.9,71.6,77.7
+Kerala,2021,sll_crime,355.4,1075.8,99.6
+Madhya Pradesh,2021,sll_crime,848.6,202.5,99.8
+Maharashtra,2021,sll_crime,1247.6,139.1,97.7
+Manipur,2021,sll_crime,31.7,22.7,40.5
+Meghalaya,2021,sll_crime,33.0,22.9,58.1
+Mizoram,2021,sll_crime,12.2,59.8,97.7
+Nagaland,2021,sll_crime,22.0,20.2,95.9
+Odisha,2021,sll_crime,457.9,66.5,96.9
+Punjab,2021,sll_crime,304.0,89.2,95.9
+Rajasthan,2021,sll_crime,795.7,88.0,94.6
+Sikkim,2021,sll_crime,6.8,28.9,98.0
+Tamil Nadu,2021,sll_crime,764.8,567.3,93.5
+Telangana,2021,sll_crime,377.7,33.6,79.6
+Tripura,2021,sll_crime,40.8,16.0,88.5
+Uttar Pradesh,2021,sll_crime,2317.0,108.0,92.0
+Uttarakhand,2021,sll_crime,114.4,167.6,96.1
+West Bengal,2021,sll_crime,982.9,24.7,87.9
+Andaman & Nicobar Islands,2021,sll_crime,4.0,235.9,99.3
+Chandigarh,2021,sll_crime,12.1,49.0,94.1
+DNH & Daman & Diu,2021,sll_crime,11.1,8.0,90.2
+Delhi,2021,sll_crime,207.0,70.0,98.8
+Jammu & Kashmir,2021,sll_crime,134.4,31.5,91.4
+Ladakh,2021,sll_crime,3.0,13.4,97.4
+Lakshadweep,2021,sll_crime,0.7,57.4,86.5
+Puducherry,2021,sll_crime,15.8,47.0,97.3
+Andhra Pradesh,2021,violent_crime,528.5,13.7,89.1
+Arunachal Pradesh,2021,violent_crime,15.4,32.0,57.7
+Assam,2021,violent_crime,351.6,76.6,42.4
+Bihar,2021,violent_crime,1237.0,35.4,78.1
+Chhattisgarh,2021,violent_crime,296.1,28.6,76.0
+Goa,2021,violent_crime,15.6,22.1,79.0
+Gujarat,2021,violent_crime,700.8,11.9,87.3
+Haryana,2021,violent_crime,296.0,43.3,58.7
+Himachal Pradesh,2021,violent_crime,74.1,23.8,73.1
+Jharkhand,2021,violent_crime,386.4,34.9,80.5
+Karnataka,2021,violent_crime,669.9,22.8,75.0
+Kerala,2021,violent_crime,355.4,23.8,91.4
+Madhya Pradesh,2021,violent_crime,848.6,30.7,69.8
+Maharashtra,2021,violent_crime,1247.6,35.1,75.0
+Manipur,2021,violent_crime,31.7,17.2,13.5
+Meghalaya,2021,violent_crime,33.0,17.6,44.4
+Mizoram,2021,violent_crime,12.2,15.3,78.6
+Nagaland,2021,violent_crime,22.0,7.2,73.3
+Odisha,2021,violent_crime,457.9,48.6,69.3
+Punjab,2021,violent_crime,304.0,20.8,72.2
+Rajasthan,2021,violent_crime,795.7,29.0,54.7
+Sikkim,2021,violent_crime,6.8,16.1,51.7
+Tamil Nadu,2021,violent_crime,764.8,16.2,88.7
+Telangana,2021,violent_crime,377.7,26.1,75.7
+Tripura,2021,violent_crime,40.8,40.1,77.1
+Uttar Pradesh,2021,violent_crime,2317.0,22.7,76.3
+Uttarakhand,2021,violent_crime,114.4,27.6,69.4
+West Bengal,2021,violent_crime,982.9,48.7,93.3
+Andaman & Nicobar Islands,2021,violent_crime,4.0,21.9,91.8
+Chandigarh,2021,violent_crime,12.1,29.9,55.1
+DNH & Daman & Diu,2021,violent_crime,11.1,9.8,59.3
+Delhi,2021,violent_crime,207.0,57.0,52.2
+Jammu & Kashmir,2021,violent_crime,134.4,22.9,67.2
+Ladakh,2021,violent_crime,3.0,7.7,76.9
+Lakshadweep,2021,violent_crime,0.7,7.4,46.2
+Puducherry,2021,violent_crime,15.8,12.1,86.1
+Andhra Pradesh,2024,crime_against_children,151.1,17.4,88.5
+Arunachal Pradesh,2024,crime_against_children,5.9,25.8,73.7
+Assam,2024,crime_against_children,120.8,48.6,81.9
+Bihar,2024,crime_against_children,475.0,28.1,61.1
+Chhattisgarh,2024,crime_against_children,97.5,71.4,55.7
+Goa,2024,crime_against_children,3.8,54.2,58.8
+Gujarat,2024,crime_against_children,209.2,25.8,77.9
+Haryana,2024,crime_against_children,91.2,82.8,37.0
+Himachal Pradesh,2024,crime_against_children,21.5,36.9,41.6
+Jharkhand,2024,crime_against_children,138.4,11.2,89.0
+Karnataka,2024,crime_against_children,193.5,49.5,55.4
+Kerala,2024,crime_against_children,94.1,63.0,92.7
+Madhya Pradesh,2024,crime_against_children,287.6,76.2,55.0
+Maharashtra,2024,crime_against_children,361.1,66.9,52.6
+Manipur,2024,crime_against_children,10.3,10.4,71.8
+Meghalaya,2024,crime_against_children,13.8,40.3,71.5
+Mizoram,2024,crime_against_children,4.2,41.7,96.3
+Nagaland,2024,crime_against_children,8.2,6.3,87.2
+Odisha,2024,crime_against_children,144.1,66.1,35.5
+Punjab,2024,crime_against_children,87.4,28.2,68.5
+Rajasthan,2024,crime_against_children,281.4,32.0,49.2
+Sikkim,2024,crime_against_children,2.1,59.3,66.9
+Tamil Nadu,2024,crime_against_children,206.6,48.6,93.6
+Telangana,2024,crime_against_children,113.8,59.5,68.2
+Tripura,2024,crime_against_children,12.3,22.0,89.2
+Uttar Pradesh,2024,crime_against_children,853.3,26.0,70.5
+Uttarakhand,2024,crime_against_children,38.0,54.4,56.1
+West Bengal,2024,crime_against_children,300.0,30.1,77.2
+Andaman & Nicobar Islands,2024,crime_against_children,1.1,122.9,89.1
+Chandigarh,2024,crime_against_children,3.2,78.7,36.4
+DNH & Daman & Diu,2024,crime_against_children,1.9,43.7,51.8
+Delhi,2024,crime_against_children,55.4,138.4,31.7
+Jammu & Kashmir,2024,crime_against_children,49.1,18.1,55.4
+Ladakh,2024,crime_against_children,0.8,20.1,75.0
+Lakshadweep,2024,crime_against_children,0.2,30.1,100.0
+Puducherry,2024,crime_against_children,3.6,53.9,90.6
+Andhra Pradesh,2024,crime_against_women,267.1,74.7,94.4
+Arunachal Pradesh,2024,crime_against_women,7.7,41.8,77.5
+Assam,2024,crime_against_women,177.7,59.3,76.5
+Bihar,2024,crime_against_women,621.0,44.1,67.1
+Chhattisgarh,2024,crime_against_women,152.7,56.3,71.3
+Goa,2024,crime_against_women,7.9,45.2,73.4
+Gujarat,2024,crime_against_women,345.0,22.0,89.2
+Haryana,2024,crime_against_women,144.7,96.4,58.8
+Himachal Pradesh,2024,crime_against_women,37.1,43.3,69.7
+Jharkhand,2024,crime_against_women,196.1,32.5,81.9
+Karnataka,2024,crime_against_women,336.3,59.3,78.6
+Kerala,2024,crime_against_women,186.9,80.5,94.1
+Madhya Pradesh,2024,crime_against_women,426.5,77.0,77.3
+Maharashtra,2024,crime_against_women,612.6,78.3,79.5
+Manipur,2024,crime_against_women,16.3,12.0,55.4
+Meghalaya,2024,crime_against_women,16.9,38.9,72.1
+Mizoram,2024,crime_against_women,6.2,41.7,95.9
+Nagaland,2024,crime_against_women,10.9,5.1,83.6
+Odisha,2024,crime_against_women,232.0,118.3,71.3
+Punjab,2024,crime_against_women,147.3,36.3,75.0
+Rajasthan,2024,crime_against_women,400.6,91.3,54.1
+Sikkim,2024,crime_against_women,3.3,39.7,72.0
+Tamil Nadu,2024,crime_against_women,386.7,29.4,93.0
+Telangana,2024,crime_against_women,190.5,128.6,86.9
+Tripura,2024,crime_against_women,20.6,34.7,82.3
+Uttar Pradesh,2024,crime_against_women,1145.4,58.0,77.3
+Uttarakhand,2024,crime_against_women,57.5,58.2,68.5
+West Bengal,2024,crime_against_women,489.0,70.3,92.4
+Andaman & Nicobar Islands,2024,crime_against_women,1.9,81.7,94.2
+Chandigarh,2024,crime_against_women,5.8,78.6,63.5
+DNH & Daman & Diu,2024,crime_against_women,4.6,18.7,68.7
+Delhi,2024,crime_against_women,102.5,130.7,73.6
+Jammu & Kashmir,2024,crime_against_women,65.5,51.4,70.6
+Ladakh,2024,crime_against_women,1.3,25.6,78.1
+Lakshadweep,2024,crime_against_women,0.3,38.2,100.0
+Puducherry,2024,crime_against_women,8.9,30.5,93.8
+Andhra Pradesh,2024,cyber_crime,534.0,4.7,28.6
+Arunachal Pradesh,2024,cyber_crime,15.8,4.9,7.7
+Assam,2024,cyber_crime,361.6,1.1,17.6
+Bihar,2024,cyber_crime,1292.1,4.9,61.9
+Chhattisgarh,2024,cyber_crime,306.4,2.2,76.3
+Goa,2024,cyber_crime,15.9,4.9,6.8
+Gujarat,2024,cyber_crime,726.5,2.2,56.6
+Haryana,2024,cyber_crime,306.9,5.9,55.6
+Himachal Pradesh,2024,cyber_crime,75.2,2.0,62.5
+Jharkhand,2024,cyber_crime,401.3,3.5,54.8
+Karnataka,2024,cyber_crime,682.6,32.2,22.1
+Kerala,2024,cyber_crime,359.7,8.2,34.2
+Madhya Pradesh,2024,cyber_crime,879.5,1.2,86.2
+Maharashtra,2024,cyber_crime,1276.8,7.8,32.7
+Manipur,2024,cyber_crime,32.6,0.2,
+Meghalaya,2024,cyber_crime,33.9,2.9,3.9
+Mizoram,2024,cyber_crime,12.5,4.0,84.4
+Nagaland,2024,cyber_crime,22.6,0.6,20.0
+Odisha,2024,cyber_crime,466.6,5.4,17.4
+Punjab,2024,cyber_crime,309.9,2.9,48.1
+Rajasthan,2024,cyber_crime,821.9,1.9,44.7
+Sikkim,2024,cyber_crime,7.0,2.2,3.8
+Tamil Nadu,2024,cyber_crime,771.7,7.5,50.8
+Telangana,2024,cyber_crime,383.2,71.1,16.2
+Tripura,2024,cyber_crime,41.9,0.8,56.0
+Uttar Pradesh,2024,cyber_crime,2388.8,4.6,54.0
+Uttarakhand,2024,cyber_crime,118.0,4.6,76.9
+West Bengal,2024,cyber_crime,997.2,0.3,67.5
+Andaman & Nicobar Islands,2024,cyber_crime,4.0,6.9,92.3
+Chandigarh,2024,cyber_crime,12.5,9.3,79.3
+DNH & Daman & Diu,2024,cyber_crime,13.9,0.4,57.1
+Delhi,2024,cyber_crime,218.8,1.8,77.8
+Jammu & Kashmir,2024,cyber_crime,137.3,0.8,42.6
+Ladakh,2024,cyber_crime,3.0,0.3,66.7
+Lakshadweep,2024,cyber_crime,0.7,0.0,
+Puducherry,2024,cyber_crime,17.0,8.4,28.0
+Andhra Pradesh,2024,ipc_bns_crime,534.0,217.4,87.2
+Arunachal Pradesh,2024,ipc_bns_crime,15.8,156.9,53.9
+Assam,2024,ipc_bns_crime,361.6,110.1,64.1
+Bihar,2024,ipc_bns_crime,1292.1,184.8,73.4
+Chhattisgarh,2024,ipc_bns_crime,306.4,236.3,78.5
+Goa,2024,ipc_bns_crime,15.9,133.8,73.9
+Gujarat,2024,ipc_bns_crime,726.5,227.7,90.2
+Haryana,2024,ipc_bns_crime,306.9,368.5,44.3
+Himachal Pradesh,2024,ipc_bns_crime,75.2,160.6,80.7
+Jharkhand,2024,ipc_bns_crime,401.3,117.7,64.8
+Karnataka,2024,ipc_bns_crime,682.6,203.3,74.6
+Kerala,2024,ipc_bns_crime,359.7,513.0,94.5
+Madhya Pradesh,2024,ipc_bns_crime,879.5,321.6,83.7
+Maharashtra,2024,ipc_bns_crime,1276.8,300.0,75.6
+Manipur,2024,ipc_bns_crime,32.6,140.2,10.4
+Meghalaya,2024,ipc_bns_crime,33.9,95.5,20.8
+Mizoram,2024,ipc_bns_crime,12.5,215.7,67.7
+Nagaland,2024,ipc_bns_crime,22.6,35.5,58.1
+Odisha,2024,ipc_bns_crime,466.6,366.9,75.1
+Punjab,2024,ipc_bns_crime,309.9,153.8,68.7
+Rajasthan,2024,ipc_bns_crime,821.9,259.6,49.1
+Sikkim,2024,ipc_bns_crime,7.0,72.7,39.9
+Tamil Nadu,2024,ipc_bns_crime,771.7,255.5,74.4
+Telangana,2024,ipc_bns_crime,383.2,497.7,73.8
+Tripura,2024,ipc_bns_crime,41.9,71.4,74.3
+Uttar Pradesh,2024,ipc_bns_crime,2388.8,180.2,76.7
+Uttarakhand,2024,ipc_bns_crime,118.0,134.4,67.1
+West Bengal,2024,ipc_bns_crime,997.2,158.3,90.6
+Andaman & Nicobar Islands,2024,ipc_bns_crime,4.0,129.2,86.8
+Chandigarh,2024,ipc_bns_crime,12.5,290.4,63.6
+DNH & Daman & Diu,2024,ipc_bns_crime,13.9,38.9,63.4
+Delhi,2024,ipc_bns_crime,218.8,1258.5,31.9
+Jammu & Kashmir,2024,ipc_bns_crime,137.3,164.4,78.0
+Ladakh,2024,ipc_bns_crime,3.0,152.3,75.6
+Lakshadweep,2024,ipc_bns_crime,0.7,68.1,52.3
+Puducherry,2024,ipc_bns_crime,17.0,207.4,91.0
+Andhra Pradesh,2024,sll_crime,534.0,98.7,97.6
+Arunachal Pradesh,2024,sll_crime,15.8,27.3,93.5
+Assam,2024,sll_crime,361.6,26.9,80.1
+Bihar,2024,sll_crime,1292.1,87.8,96.9
+Chhattisgarh,2024,sll_crime,306.4,137.9,99.5
+Goa,2024,sll_crime,15.9,74.2,94.8
+Gujarat,2024,sll_crime,726.5,619.4,99.8
+Haryana,2024,sll_crime,306.9,210.1,93.8
+Himachal Pradesh,2024,sll_crime,75.2,77.7,95.6
+Jharkhand,2024,sll_crime,401.3,34.3,86.3
+Karnataka,2024,sll_crime,682.6,87.2,69.0
+Kerala,2024,sll_crime,359.7,875.9,99.6
+Madhya Pradesh,2024,sll_crime,879.5,172.8,99.7
+Maharashtra,2024,sll_crime,1276.8,177.6,98.7
+Manipur,2024,sll_crime,32.6,21.8,57.5
+Meghalaya,2024,sll_crime,33.9,22.2,73.7
+Mizoram,2024,sll_crime,12.5,68.0,95.5
+Nagaland,2024,sll_crime,22.6,26.1,96.1
+Odisha,2024,sll_crime,466.6,92.0,96.4
+Punjab,2024,sll_crime,309.9,68.7,92.9
+Rajasthan,2024,sll_crime,821.9,102.4,91.7
+Sikkim,2024,sll_crime,7.0,26.4,84.2
+Tamil Nadu,2024,sll_crime,771.7,399.9,92.3
+Telangana,2024,sll_crime,383.2,71.2,76.7
+Tripura,2024,sll_crime,41.9,24.8,95.2
+Uttar Pradesh,2024,sll_crime,2388.8,116.3,68.1
+Uttarakhand,2024,sll_crime,118.0,128.6,95.5
+West Bengal,2024,sll_crime,997.2,22.9,76.6
+Andaman & Nicobar Islands,2024,sll_crime,4.0,290.8,99.0
+Chandigarh,2024,sll_crime,12.5,35.9,98.3
+DNH & Daman & Diu,2024,sll_crime,13.9,3.7,93.7
+Delhi,2024,sll_crime,218.8,101.7,98.9
+Jammu & Kashmir,2024,sll_crime,137.3,27.6,91.1
+Ladakh,2024,sll_crime,3.0,26.8,97.4
+Lakshadweep,2024,sll_crime,0.7,53.6,89.3
+Puducherry,2024,sll_crime,17.0,117.0,98.4
+Andhra Pradesh,2024,total_cognizable,534.0,316.1,90.7
+Arunachal Pradesh,2024,total_cognizable,15.8,184.2,59.4
+Assam,2024,total_cognizable,361.6,137.0,67.1
+Bihar,2024,total_cognizable,1292.1,272.6,81.3
+Chhattisgarh,2024,total_cognizable,306.4,374.2,86.0
+Goa,2024,total_cognizable,15.9,208.0,81.0
+Gujarat,2024,total_cognizable,726.5,847.0,97.2
+Haryana,2024,total_cognizable,306.9,578.6,60.8
+Himachal Pradesh,2024,total_cognizable,75.2,238.3,85.5
+Jharkhand,2024,total_cognizable,401.3,152.0,69.7
+Karnataka,2024,total_cognizable,682.6,290.6,72.9
+Kerala,2024,total_cognizable,359.7,1389.0,97.7
+Madhya Pradesh,2024,total_cognizable,879.5,494.4,89.4
+Maharashtra,2024,total_cognizable,1276.8,477.6,83.9
+Manipur,2024,total_cognizable,32.6,162.1,18.0
+Meghalaya,2024,total_cognizable,33.9,117.7,30.6
+Mizoram,2024,total_cognizable,12.5,283.7,74.1
+Nagaland,2024,total_cognizable,22.6,61.6,76.4
+Odisha,2024,total_cognizable,466.6,458.8,79.8
+Punjab,2024,total_cognizable,309.9,222.5,77.2
+Rajasthan,2024,total_cognizable,821.9,362.0,61.1
+Sikkim,2024,total_cognizable,7.0,99.1,48.0
+Tamil Nadu,2024,total_cognizable,771.7,655.4,84.7
+Telangana,2024,total_cognizable,383.2,568.9,74.2
+Tripura,2024,total_cognizable,41.9,96.2,79.7
+Uttar Pradesh,2024,total_cognizable,2388.8,296.6,73.5
+Uttarakhand,2024,total_cognizable,118.0,263.0,79.7
+West Bengal,2024,total_cognizable,997.2,181.3,88.7
+Andaman & Nicobar Islands,2024,total_cognizable,4.0,420.0,96.1
+Chandigarh,2024,total_cognizable,12.5,326.3,70.4
+DNH & Daman & Diu,2024,total_cognizable,13.9,42.7,65.7
+Delhi,2024,total_cognizable,218.8,1360.2,36.8
+Jammu & Kashmir,2024,total_cognizable,137.3,192.0,79.9
+Ladakh,2024,total_cognizable,3.0,179.1,78.3
+Lakshadweep,2024,total_cognizable,0.7,121.7,63.4
+Puducherry,2024,total_cognizable,17.0,324.4,94.1
+Andhra Pradesh,2024,violent_crime,534.0,51.4,93.7
+Arunachal Pradesh,2024,violent_crime,15.8,32.2,71.1
+Assam,2024,violent_crime,361.6,26.4,72.7
+Bihar,2024,violent_crime,1292.1,83.0,89.8
+Chhattisgarh,2024,violent_crime,306.4,54.6,79.5
+Goa,2024,violent_crime,15.9,38.3,81.4
+Gujarat,2024,violent_crime,726.5,16.5,90.1
+Haryana,2024,violent_crime,306.9,48.2,63.8
+Himachal Pradesh,2024,violent_crime,75.2,27.8,74.7
+Jharkhand,2024,violent_crime,401.3,37.4,78.3
+Karnataka,2024,violent_crime,682.6,45.7,79.5
+Kerala,2024,violent_crime,359.7,52.5,95.6
+Madhya Pradesh,2024,violent_crime,879.5,65.1,82.6
+Maharashtra,2024,violent_crime,1276.8,68.8,82.5
+Manipur,2024,violent_crime,32.6,49.5,13.4
+Meghalaya,2024,violent_crime,33.9,14.7,38.8
+Mizoram,2024,violent_crime,12.5,18.5,89.8
+Nagaland,2024,violent_crime,22.6,5.5,70.8
+Odisha,2024,violent_crime,466.6,161.6,83.9
+Punjab,2024,violent_crime,309.9,25.0,82.4
+Rajasthan,2024,violent_crime,821.9,40.0,57.3
+Sikkim,2024,violent_crime,7.0,21.5,47.3
+Tamil Nadu,2024,violent_crime,771.7,47.5,90.6
+Telangana,2024,violent_crime,383.2,71.6,86.3
+Tripura,2024,violent_crime,41.9,28.2,77.4
+Uttar Pradesh,2024,violent_crime,2388.8,35.9,80.5
+Uttarakhand,2024,violent_crime,118.0,33.5,58.2
+West Bengal,2024,violent_crime,997.2,51.4,92.5
+Andaman & Nicobar Islands,2024,violent_crime,4.0,29.5,85.3
+Chandigarh,2024,violent_crime,12.5,42.8,65.5
+DNH & Daman & Diu,2024,violent_crime,13.9,8.4,63.6
+Delhi,2024,violent_crime,218.8,57.4,55.7
+Jammu & Kashmir,2024,violent_crime,137.3,18.3,69.9
+Ladakh,2024,violent_crime,3.0,11.6,65.6
+Lakshadweep,2024,violent_crime,0.7,11.6,81.8
+Puducherry,2024,violent_crime,17.0,46.3,95.1

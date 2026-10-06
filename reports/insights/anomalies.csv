@@ -1,0 +1,46 @@
+state,year,category,prev,cases,change_pct,z
+Manipur,2023,violent_crime,631.0,14427,2186.37,27.13
+Manipur,2023,ipc_bns_crime,3029.0,19192,533.61,20.39
+Manipur,2023,total_cognizable,3914.0,20283,418.22,15.81
+Manipur,2024,ipc_bns_crime,19192.0,4572,-76.18,-12.61
+Manipur,2024,total_cognizable,20283.0,5284,-73.95,-12.24
+Assam,2023,crime_against_children,4084.0,10174,149.12,10.7
+Tamil Nadu,2021,ipc_bns_crime,891700.0,322852,-63.79,-8.53
+Tamil Nadu,2020,ipc_bns_crime,168116.0,891700,430.41,8.08
+Assam,2022,violent_crime,26933.0,14314,-46.85,-7.14
+Odisha,2022,violent_crime,22244.0,43566,95.86,6.8
+DNH & Daman & Diu,2022,ipc_bns_crime,490.0,1184,141.63,6.26
+Manipur,2024,violent_crime,14427.0,1614,-88.81,-6.22
+Andaman & Nicobar Islands,2021,total_cognizable,2542.0,1332,-47.6,-5.88
+Tamil Nadu,2021,total_cognizable,1377681.0,756753,-45.07,-5.47
+Gujarat,2022,ipc_bns_crime,273056.0,134600,-50.71,-5.43
+Assam,2022,ipc_bns_crime,119883.0,59315,-50.52,-5.41
+Tamil Nadu,2020,total_cognizable,455094.0,1377681,202.72,5.36
+DNH & Daman & Diu,2022,total_cognizable,579.0,1273,119.86,5.34
+DNH & Daman & Diu,2023,ipc_bns_crime,1184.0,761,-35.73,-5.31
+Uttarakhand,2020,sll_crime,16187.0,43520,168.86,5.12
+Assam,2022,total_cognizable,133239.0,68937,-48.26,-5.05
+Puducherry,2021,total_cognizable,7940.0,4595,-42.13,-5.01
+Gujarat,2020,ipc_bns_crime,139503.0,381849,173.72,4.91
+Assam,2022,crime_against_women,29046.0,14148,-51.29,-4.86
+Chandigarh,2020,sll_crime,1699.0,671,-60.51,-4.86
+Uttarakhand,2017,total_cognizable,16074.0,28861,79.55,4.73
+Puducherry,2021,ipc_bns_crime,6725.0,3851,-42.74,-4.72
+Uttarakhand,2021,total_cognizable,57332.0,34875,-39.17,-4.58
+DNH & Daman & Diu,2023,total_cognizable,1273.0,865,-32.05,-4.3
+Uttarakhand,2021,sll_crime,43520.0,19171,-55.95,-4.29
+Goa,2021,ipc_bns_crime,3393.0,2099,-38.14,-4.08
+Andaman & Nicobar Islands,2021,sll_crime,2060.0,946,-54.08,-4.08
+Tamil Nadu,2022,ipc_bns_crime,322852.0,193913,-39.94,-3.98
+Andhra Pradesh,2024,sll_crime,30426.0,52712,73.25,3.9
+Kerala,2022,sll_crime,382317.0,218978,-42.72,-3.85
+Tripura,2018,sll_crime,320.0,753,135.31,3.84
+Assam,2024,crime_against_children,10174.0,5871,-42.29,-3.81
+Mizoram,2019,ipc_bns_crime,1774.0,2379,34.1,3.77
+Chandigarh,2024,sll_crime,900.0,448,-50.22,-3.7
+Puducherry,2020,ipc_bns_crime,3167.0,6725,112.35,3.69
+Tamil Nadu,2022,total_cognizable,756753.0,473456,-37.44,-3.69
+Assam,2022,cyber_crime,4846.0,1733,-64.24,-3.62
+Haryana,2017,total_cognizable,143111.0,224816,57.09,3.57
+Goa,2021,total_cognizable,4366.0,2991,-31.49,-3.54
+Kerala,2023,cyber_crime,773.0,3295,326.26,3.54

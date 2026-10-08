@@ -282,7 +282,7 @@ if page == "Overview":
       <p>Nine years of official police statistics (2016-2024) for every state, cleaned and combined
       in one place. Choose a category and a year below; everything updates.</p>
       <div class="stat">In {year}, police in India registered <b>{now.cases:,.0f}</b> cases of
-      {LABEL[category].lower()}{change}. That is <b>{now.crime_rate:.1f} for every lakh {per(category)}</b>.</div>
+      {LABEL[category][0].lower() + LABEL[category][1:]}{change}. That is <b>{now.crime_rate:.1f} for every lakh {per(category)}</b>.</div>
       </div><div class="facts">
         <div><b>9</b>years of data</div><div><b>35</b>states and UTs</div>
         <div><b>7</b>crime categories</div><div><b>25</b>NCRB tables combined</div>

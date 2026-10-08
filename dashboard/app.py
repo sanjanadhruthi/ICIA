@@ -40,7 +40,7 @@ h1, h2, h3, h4 { font-family: 'Source Serif 4', Georgia, serif !important; color
 .block-container { padding: 1.6rem 2.2rem 3rem 2.2rem; max-width: 100%; }
 
 /* sidebar: navy navigation panel */
-[data-testid="stSidebar"] { background: #1D3557; }
+[data-testid="stSidebar"] { background: #1D3557; min-width: 260px !important; }
 [data-testid="stSidebar"] * { color: #E8ECF2 !important; }
 [data-testid="stSidebar"] .brand { font-family: 'Source Serif 4', Georgia, serif; font-size: 1.7rem; font-weight: 700; }
 [data-testid="stSidebar"] .brandsub { font-size: 0.85rem; opacity: 0.75; margin-top: -0.3rem; }
@@ -478,7 +478,8 @@ elif page == "Crime types":
     with right, st.container(border=True):
         st.markdown("#### 2024: the year the criminal code changed")
         about("The BNS replaced the IPC on 1 July 2024, so 2024 cases are split between the two laws.")
-        bns = q("SELECT * FROM v_bns_transition WHERE total_cases >= 1000 ORDER BY total_cases DESC").head(12)
+        bns = q("SELECT * FROM v_bns_transition WHERE total_cases >= 1000 "
+                "AND crime_head NOT LIKE 'Other%' ORDER BY total_cases DESC").head(12)
         long = bns.melt(id_vars="crime_head", value_vars=["ipc_cases", "bns_cases"],
                         var_name="law", value_name="cases")
         long["law"] = long.law.map({"ipc_cases": "Old IPC", "bns_cases": "New BNS"})

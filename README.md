@@ -2,7 +2,7 @@
 
 **Nine years of official Indian crime statistics (2016–2024), cleaned, combined and made explorable.**
 
-🔗 **Live dashboard:** _coming soon_ &nbsp;·&nbsp; 📊 Data: NCRB *Crime in India* &nbsp;·&nbsp; 🐍 Python · SQL · Streamlit
+🔗 **Live dashboard:** [icia-crime.streamlit.app](https://icia-crime.streamlit.app/) &nbsp;·&nbsp; 📊 Data: NCRB *Crime in India* &nbsp;·&nbsp; 🐍 Python · SQL · Streamlit
 
 ![Dashboard overview](overview.png)
 
